@@ -1,0 +1,48 @@
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.myButton {
+    background-color: lightsalmon;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto
+}
+
+.myButton:hover {background: skyblue;}
+
+#one {
+    color: red;
+}
+
+#two {
+    color: black;
+}
+
+#three {
+    color: blueviolet;
+}
+
+#four {
+    color: green;
+}
+
+#myTimer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#myQuestion {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
